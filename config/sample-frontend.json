@@ -1,0 +1,4 @@
+{
+    "BASE": "http://localhost:3002",
+    "APP_NAME": "Bucket Task"
+}

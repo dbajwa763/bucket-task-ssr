@@ -1,0 +1,15 @@
+{
+    "PORT": 3002,
+    "DB": {
+        "connectionLimit": 1000,
+        "host": "localhost",
+        "user": "root",
+        "password":"root",
+        "database": "bucket-tasks",
+        "port" : 3306,   
+        "waitForConnections": true,
+        "queueLimit": 0,
+        "debug" : false,
+        "charset": "utf8mb4"
+    }
+}
